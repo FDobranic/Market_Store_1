@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\Market_Store\Market_Store\bin\Debug\netcoreapp3.1\Market_Store.exe
+C:\Users\filip\source\repos\Market_Store\Market_Store\bin\Debug\netcoreapp3.1\Market_Store.deps.json
+C:\Users\filip\source\repos\Market_Store\Market_Store\bin\Debug\netcoreapp3.1\Market_Store.runtimeconfig.json
+C:\Users\filip\source\repos\Market_Store\Market_Store\bin\Debug\netcoreapp3.1\Market_Store.runtimeconfig.dev.json
+C:\Users\filip\source\repos\Market_Store\Market_Store\bin\Debug\netcoreapp3.1\Market_Store.dll
+C:\Users\filip\source\repos\Market_Store\Market_Store\bin\Debug\netcoreapp3.1\Market_Store.pdb
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.AssemblyInfo.cs
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.dll
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.pdb
+C:\Users\filip\source\repos\Market_Store\Market_Store\obj\Debug\netcoreapp3.1\Market_Store.genruntimeconfig.cache
